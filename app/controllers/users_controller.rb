@@ -1,6 +1,6 @@
 class UsersController < ApplicationController
     def index
-        @hello = "Hellow,world through viable"
+        @hello = "いったん修正してみる。"
     end
 
 end
